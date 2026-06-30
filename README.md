@@ -1,4 +1,4 @@
-# Estimation-It-rative-de-Quantiles
+# Estimation Itérative de Quantiles
 Intervalles de Confiance pour l’Algorithme de Robbins-Monro
 
 Résumé
